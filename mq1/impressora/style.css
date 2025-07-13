@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/*Criado para quando for imprimir*/
+
+* {
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+article::before{
+    content: 'receba';
+}

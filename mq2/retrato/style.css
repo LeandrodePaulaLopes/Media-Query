@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/*Orientação para em pe (retrato)*/
+
+body, html {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../cev-portrait.jpg');
+    background-position: bottom center ;
+}

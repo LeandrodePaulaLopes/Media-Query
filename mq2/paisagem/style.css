@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/*Orientação para deitado (paisagem)*/
+
+body, html {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../cev-landscape.jpg');
+    background-position: left bottom;
+}
